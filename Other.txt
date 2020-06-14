@@ -1,0 +1,11 @@
+﻿Other
+mirosoft.com IN A 127.0.0.5
+ietf.org IN A 127.0.0.5
+www.microsoft.com IN A 60.221.219.168
+www.ietf.org IN A 127.0.0.9
+baidu.com IN A 197.9.7.2
+baidu.com IN CNAME www.baidu.com
+www.baidu.com IN A 166.2.0.1
+baidu.com IN MX mail.baidu.com
+mail.baidu.com IN A 179.0.3.1 
+

@@ -1,0 +1,4 @@
+﻿Nation
+edu.cn IN A 127.0.0.6
+gov.us IN A 127.0.0.7
+china.cn IN A 134.0.0.3

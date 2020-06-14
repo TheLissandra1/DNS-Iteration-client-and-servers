@@ -1,0 +1,2 @@
+Cache
+www.bupt.edu.cn IN A 192.168.1.25

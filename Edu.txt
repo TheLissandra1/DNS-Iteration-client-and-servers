@@ -1,0 +1,5 @@
+﻿Edu
+www.bupt.edu.cn IN A 192.168.1.24
+bupt.edu.cn IN MX mails.bupt.edu.cn
+mails.bupt.edu.cn IN A 192.168.1.37
+bupt.edu.cn IN CNAME www.bupt.edu.cn

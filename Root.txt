@@ -1,0 +1,8 @@
+﻿Root
+cn IN NS 127.0.0.4
+us IN NS 127.0.0.4
+edu IN NS 127.0.0.6
+gov IN NS 127.0.0.7
+com IN NS 127.0.0.5
+org IN NS 127.0.0.5
+arpa IN NS 127.0.0.8
